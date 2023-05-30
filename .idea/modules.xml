@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Pattern-master.iml" filepath="$PROJECT_DIR$/.idea/Design-Pattern-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral-Patterns/behavioralpatterns.iml" filepath="$PROJECT_DIR$/Behavioral-Patterns/behavioralpatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational-Patterns/creationalpatterns.iml" filepath="$PROJECT_DIR$/Creational-Patterns/creationalpatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Architectural/servicelocator/service-locator.iml" filepath="$PROJECT_DIR$/Architectural/servicelocator/service-locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/structuralpatterns.iml" filepath="$PROJECT_DIR$/Structural-Patterns/structuralpatterns.iml" />
+    </modules>
+  </component>
+</project>

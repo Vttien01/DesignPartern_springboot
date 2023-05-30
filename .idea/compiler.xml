@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="behavioralpatterns" />
+        <module name="structuralpatterns" />
+        <module name="creationalpatterns" />
+        <module name="service-locator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="behavioralpatterns" target="1.8" />
+      <module name="creationalpatterns" target="1.8" />
+      <module name="service-locator" target="1.8" />
+      <module name="structuralpatterns" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="behavioralpatterns" options="-parameters" />
+      <module name="creationalpatterns" options="-parameters" />
+      <module name="service-locator" options="-parameters" />
+      <module name="structuralpatterns" options="-parameters" />
+    </option>
+  </component>
+</project>
